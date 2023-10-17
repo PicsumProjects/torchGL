@@ -1,2 +1,3 @@
 # torchGL
-Torch.js
+
+Pytorch for JS.
